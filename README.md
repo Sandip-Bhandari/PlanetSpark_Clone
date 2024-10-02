@@ -1,3 +1,3 @@
 # PlanetSpark_Clone
 
-![Alt text](.PlanetSpark_Clone.jpeg)
+![Alt text](.assets/project_img.jpeg)
